@@ -1,0 +1,40 @@
+- name: Radial Analytics - Website
+  number: 01.
+  date: February 2019 - March 2019
+  image: ./images/placeholder.png
+  link: https://www.radialanalytics.com
+  link_text: Check out the live site >>
+  challenge: >
+    Redesign Radial Analytics’ marketing website to increase new client engagement, online traction for the company’s mission, and gauge interest in new products.
+  solution: >
+    A speedy new website built using React and MaterialUI to convey the most important information about Radial Analytics and their revolutionary products.
+- name: Screen Printing in Vienna
+  number: 02.
+  date: July 2019
+  image: ./images/placeholder.png
+  link: https://drive.google.com/file/d/1KA_QriZBIpz3WPQ9LYDapZI8fK8eCqEP/view?usp=sharing
+  link_text: View the photos >>
+  challenge: >
+    Design/print a large-scale textile and find a relevant site in Vienna, Austria to display the work as installation art.
+  solution: >
+    An abstract self-portrait-esque textile, which was sited in a beautiful sunflower field in the outskirts of Vienna.
+- name: Computer Graphics
+  number: 03.
+  date: June 2018, July 2019
+  image: ./images/placeholder.png
+  link: https://www.youtube.com/watch?v=HN7T3LguBo8&feature=youtu.be
+  link_text: Watch the video >>
+  challenge: >
+    Design and develop a compelling graphic to be displayed on the facade of Ars Electronica Museum in Linz, Austria.
+  solution: >
+    A spooky generative animation exploring the transience of life, which was later displayed at the Ars Electronica Festival 2019.
+- name: Sandbox
+  number: 04.
+  date: January 2019 - August 2019
+  image: ./images/placeholder.png
+  link: https://www.sandboxneu.com
+  link_text: Check out the live site >>
+  challenge: >
+    In a saturated market, create a brand and marketing/e-commerce site that will make f(x) foods stand out among other granola bars on the shelf.
+  solution: >
+    Bright colors, engaging illustrations, and catchy product information helped f(x) foods quickly grow their grocery store and online sales.
