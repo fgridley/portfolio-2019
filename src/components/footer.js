@@ -14,7 +14,7 @@ const LinkContainer = styled.div`
   width: 100%;
   padding-right: 1rem;
 `
-const Icon = styled.div`
+const Icon = styled.a`
   margin-left: 30px;
 `
 
@@ -22,13 +22,13 @@ const Footer = () => {
   return(
   <FooterContainer>
     <LinkContainer className="row end-xs">
-      <Icon>
+      <Icon href="https://github.com/fgridley">
         <Github />
       </Icon>
-      <Icon>
+      <Icon href="https://www.linkedin.com/in/fiona-gridley/">
         <LinkedIn />
       </Icon>
-      <Icon>
+      <Icon href="mailto:gridley.f@husky.neu.edu">
         <Email />
       </Icon>
     </LinkContainer>
