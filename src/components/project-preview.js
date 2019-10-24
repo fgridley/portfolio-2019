@@ -59,6 +59,7 @@ const Solution = styled.p`
 const PreviewImg = styled(Img)`
   max-width: 500px;
   margin: 0px auto 20px auto;
+  box-shadow: 0px 0px 15px #00000033;
 `
 
 const ProjectHeader = styled.h1`
@@ -71,16 +72,20 @@ const ProjectLink = styled.a`
 
 `
 
+const ImageContainer = styled.div`
+  
+`
+
 const ProjectPreview = ({data}) => {
   return(
   <ProjectsAllContainer>
     <ProjectHeader> Selected Work </ProjectHeader>
       {data.map((item) => (
         <Project key={item.name} className="row around-xs">
-          <div className="col-xs-12 col-sm-5">
+          <ImageContainer className="col-xs-12 col-sm-5">
             <PreviewImg fluid={item.image.childImageSharp.fluid} />
-          </div>
-          <TextContainer className="col-xs-12 col-sm-6">
+          </ImageContainer>
+          <TextContainer className="col-xs-12 col-sm-6 first-sm">
             <Number>{item.number}</Number>
             <Name>{item.name}</Name>
             <Date>{item.date}</Date>
