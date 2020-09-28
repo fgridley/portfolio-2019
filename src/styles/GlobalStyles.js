@@ -1,7 +1,7 @@
 import { createGlobalStyle } from "styled-components"
 
 export default createGlobalStyle`
-    @import url('https://use.typekit.net/ksx8bco.css');
+    @import url('https://use.typekit.net/hiu6llq.css');
 
     body {
         font-family: 'basic sans', sans-serif;

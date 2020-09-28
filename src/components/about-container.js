@@ -31,7 +31,7 @@ const AboutSubheader = styled.h3`
   margin-top: 5px;
 `
 
-const AboutText = styled.h3`
+const AboutText = styled.p`
   font-weight: 400;
   color: #000000;
 `

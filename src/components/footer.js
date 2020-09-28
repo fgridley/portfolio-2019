@@ -28,7 +28,7 @@ const Footer = () => {
       <Icon href="https://www.linkedin.com/in/fiona-gridley/">
         <LinkedIn />
       </Icon>
-      <Icon href="mailto:gridley.f@husky.neu.edu">
+      <Icon href="mailto:gridley.f@northeastern.edu">
         <Email />
       </Icon>
     </LinkContainer>
